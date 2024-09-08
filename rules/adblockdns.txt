@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240907160905
-! Last modified: 2024/09/07 16:09:05
-! Blocked domains: 172300
+! Version: 20240908083842
+! Last modified: 2024/09/08 08:38:42
+! Blocked domains: 172284
 ! unBlocked domains: 51
 !
 ||00771944.xyz^
@@ -3177,6 +3177,7 @@
 ||883ae888.com^
 ||884ae888.com^
 ||www.885420.com^
+||88545539.xyz^
 ||885ae888.com^
 ||8861198.com^
 ||8861202.com^
@@ -4631,6 +4632,7 @@
 ||rt.acdn4you.com^
 ||acdnpro.com^
 ||acdid.acdsystems.com^
+||ace-adserver.com^
 ||ajljei.ace.jp^
 ||aceadsys.net^
 ||acecapprecarious.com^
@@ -13835,7 +13837,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -21526,7 +21528,6 @@
 ||beta-n.ro^
 ||promotionmaterial.betacash.com^
 ||betack.com^
-||betadeadlock.com^
 ||betadria.com^
 ||betads.xyz^
 ||betahit.click^
@@ -26379,7 +26380,6 @@
 ||tr.cj.bordeaux-metropole.fr^
 ||tr.ville.bordeaux.fr^
 ||tr.marketing.bordeauxgironde.cci.fr^
-||mdzbr.guide.borden-carleton.ca^
 ||a8cv.borderfree-official.com^
 ||vstat.borderlessbd.com^
 ||track.borderlessfill9.org^
@@ -36283,7 +36283,6 @@
 ||www.coax7nice.com^
 ||coaxcomet.com^
 ||coaxpaternalcubic.com^
-||api-ms.cobainaja.id^
 ||cobalt-aircraft.com^
 ||squirrel.cobaltconnect.com^
 ||cobaltcreation.xyz^
@@ -36996,7 +36995,6 @@
 ||news.coloradobiz.com^
 ||coloradodawn.com^
 ||coloradodiscountgolf.com^
-||colorandcotton.com^
 ||ctr.colorbrightpin.com^
 ||colorcrazehai.xyz^
 ||track.coloredcaramel.co^
@@ -39696,7 +39694,6 @@
 ||cpaofredmond.com^
 ||cpaoi.com^
 ||cpaokhfmaccu.com^
-||cpaservices.com.ar^
 ||cpatext.ru^
 ||track.cpatool.net^
 ||www.cpatrac.com^
@@ -44029,6 +44026,7 @@
 ||www.decografix.com^
 ||decollhuaca.com^
 ||decomposedismantle.com^
+||decompraschile.com^
 ||tracker.decomworld.com^
 ||tms.decopactech.com^
 ||www.decorama.arq.br^
@@ -45445,6 +45443,7 @@
 ||dielottozahlende.net^
 ||dienai.ru^
 ||diench.com^
+||diendh.xyz^
 ||marketing.dienerlaw.net^
 ||data-f00aa2a607.dienews.net^
 ||data-da8b646558.dieniederoesterreicherin.at^
@@ -47954,6 +47953,8 @@
 ||ds3.biz^
 ||ds7hds92.de^
 ||ds88pc0kw6cvc.cloudfront.net^
+||dsad234.fun^
+||dsaewew21.fun^
 ||dsail-tech.com^
 ||trace21.dsb-ebusiness.com^
 ||dsb6jelx4yhln.cloudfront.net^
@@ -50737,7 +50738,6 @@
 ||elta-vp.top^
 ||elta-vt.top^
 ||eltacargo.top^
-||eltacosu.lol^
 ||eltalogistic.top^
 ||ads.eltemps.cat^
 ||alexfj.elten-store.de^
@@ -58387,7 +58387,6 @@
 ||info.freedomcte.com^
 ||freedomdaily.com^
 ||smetrics.freedomfordsales.ca^
-||freedomgift50.com^
 ||go.freedomhouse.org^
 ||freedommedianetwork.com^
 ||strack.freedommobile.ca^
@@ -70063,6 +70062,7 @@
 ||icyporno.com^
 ||icyreprimandlined.com^
 ||icyyapemu.com^
+||com.id-7144893.com^
 ||id-icloud.com^
 ||id-ionos.cc^
 ||id-visitors.com^
@@ -81987,7 +81987,6 @@
 ||kinoman-tv.eu^
 ||kinoman-tv.pl^
 ||kinomaniak.cc^
-||kinomaniak.pl^
 ||data-47ee1b0882.kinonaechte-lueneburg.de^
 ||kinoneeloign.com^
 ||kinonline.pl^
@@ -86414,7 +86413,6 @@
 ||lewplnews.yolasite.com^
 ||lewybodydementiapedia.com^
 ||stat.lex.pl^
-||lexatrade.com^
 ||links.lexautolease.co.uk^
 ||links.commercialemails.lexautolease.co.uk^
 ||lexdesk.com^
@@ -87514,13 +87512,7 @@
 ||64bcf4da794811902a280a7c33f48a71.lisagos.pl^
 ||lisakalus-fotografie.com^
 ||lisalazomusic.com^
-||awaco.podcast.lisameyerson.com^
-||hvoq.podcast.lisameyerson.com^
 ||kvxp.podcast.lisameyerson.com^
-||mxk.podcast.lisameyerson.com^
-||tpbq.podcast.lisameyerson.com^
-||wsyup.podcast.lisameyerson.com^
-||ypqm.podcast.lisameyerson.com^
 ||lisbonguestlist.com^
 ||tr.news.lisez.com^
 ||dtinguj.lisjanus.pl^
@@ -91155,7 +91147,6 @@
 ||majorworkertop.com^
 ||partneri.majstervposteli.sk^
 ||partner.majtki.cz^
-||majucash.xyz^
 ||vt.mak.com^
 ||makasiy4.xyz^
 ||make-cute-faces.blogspot.com^
@@ -93258,7 +93249,6 @@
 ||mcraftgifts.com^
 ||go.mcrel.org^
 ||d.mcrket.com^
-||mcrogers.com^
 ||fpadga.mcruises.ru^
 ||mcsglobalcargo.com^
 ||mcsgrp.com^
@@ -97280,6 +97270,7 @@
 ||bpeml.mlb.com^
 ||email.account-mail.mlb.com^
 ||email.tickets.mlb.com^
+||mlcbgw.xyz^
 ||mlclick.com^
 ||mlegyu.xyz^
 ||go.mlexmarketinsight.com^
@@ -98322,7 +98313,6 @@
 ||partneri.monikakorinkova.cz^
 ||monikastogowska.pl^
 ||monild.im^
-||www.moninediy.com^
 ||teyvmb.moniquelhuillier.com^
 ||moniquetlee.com^
 ||monitis.com^
@@ -101737,7 +101727,6 @@
 ||navi8.com^
 ||navi88.com^
 ||navi94.com^
-||navi98.ru^
 ||navi99.com^
 ||naviblue-team.com^
 ||routes.navibration.com^
@@ -109337,7 +109326,6 @@
 ||sxjfhh.packersnews.com^
 ||smetrics.packersproshop.com^
 ||www.dhl-international.packet-notficat.best^
-||dl.packetstormsecurity.net^
 ||kvomsq.packoplock.se^
 ||packsittracks.com^
 ||packstracks.com^
@@ -115649,7 +115637,6 @@
 ||postage24.one^
 ||postaindia.com^
 ||postaindia.top^
-||postaipay.top^
 ||postak-rs.top^
 ||postakas.top^
 ||postakosoves.one^
@@ -117440,7 +117427,6 @@
 ||wwsa.prodepl.top^
 ||xcor.prodepl.top^
 ||xuoe.prodepl.top^
-||prodesarrolloapurimac.pe^
 ||prodesigners.club^
 ||lab.prodesp.sp.gov.br^
 ||prodgoal.com^
@@ -117863,7 +117849,6 @@
 ||promclickapp.biz^
 ||www.promdealss.top^
 ||go.promedia.nl^
-||promenter.rs^
 ||activos.contacto.promerica.fi.cr^
 ||infopromerica.promerica.fi.cr^
 ||mercadeo.promerica.fi.cr^
@@ -131473,7 +131458,6 @@
 ||security-user-case-a9a7e.firebaseapp.com^
 ||security-user-warning-cbb2e.firebaseapp.com^
 ||c.security.org^
-||securityassociationgoa.com^
 ||resource.securitybenefitinfo.com^
 ||communications.securityins.net^
 ||securitymetrics.com^
@@ -134964,7 +134948,6 @@
 ||oqgrax.sissy-boy.com^
 ||amil.sistemadeindicacoes.com.br^
 ||sistema.sistemapremiumlondrina.com.br^
-||sistemasnetz.com.br^
 ||usiminas-ipatinga-u002.sistemastorage.com.br^
 ||apihmg.sistemasubsolar.com.br^
 ||sistemasvallenatos.com^
@@ -137141,7 +137124,6 @@
 ||fg.softguy.com^
 ||softholics.com^
 ||softietouch.com^
-||softiq.ro^
 ||softlab.fun^
 ||softmania.pl^
 ||adserver.softonic.com^
@@ -153625,6 +153607,7 @@
 ||track.trucosecreto.fun^
 ||ttus.tructiepbongda.me^
 ||tructiepdaga.info^
+||tructiepketqua.net^
 ||truculentrate.com^
 ||trudnadecyzja.click^
 ||trudnepowiesci.click^
@@ -154907,7 +154890,6 @@
 ||jdgtgb.twitterperlen.de^
 ||twitterr.com^
 ||twixar.me^
-||twizt.net^
 ||data-8b242b85ce.twjobs.de^
 ||twjsx.cn^
 ||twk20rw5v1.com^
@@ -170696,6 +170678,8 @@
 ||yylady.cn^
 ||yylive.top^
 ||yylive.tv^
+||yylive.vip^
+||yylive.xyz^
 ||www.yymh1113.com^
 ||yymmvy.shop^
 ||yyn.us^
