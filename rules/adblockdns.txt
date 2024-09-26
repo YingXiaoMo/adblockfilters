@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule、jiekouAD
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20240926161125
-! Last modified: 2024/09/26 16:11:25
-! Blocked domains: 180784
+! Version: 20240927000932
+! Last modified: 2024/09/27 00:09:32
+! Blocked domains: 180834
 ! unBlocked domains: 51
 !
 ||foodnetworks.000.pe^
@@ -760,6 +760,8 @@
 ||184.106.248.76^
 ||184c4i95p.de^
 ||185.161.248.253^
+||185.246.188.124^
+||185.246.188.125^
 ||1860610788.rsc.cdn77.org^
 ||1866741353.rsc.cdn77.org^
 ||1873083787.rsc.cdn77.org^
@@ -805,6 +807,12 @@
 ||19199675.xyz^
 ||192.151.218.66^
 ||193.200.64.24^
+||193.200.64.30^
+||193.200.64.31^
+||193.200.65.61^
+||194.63.140.103^
+||194.63.143.61^
+||194.63.143.96^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -1107,6 +1115,12 @@
 ||20tracks.com^
 ||tracking.21-a4652-bi.co.uk^
 ||ads.211.ru^
+||212.117.190.201^
+||212.117.190.202^
+||212.117.190.210^
+||212.117.190.211^
+||212.117.190.212^
+||212.117.190.213^
 ||212121.ru^
 ||21274758.xyz^
 ||212ehae.fun^
@@ -1135,6 +1149,7 @@
 ||www.22-trk-srv.com^
 ||mobile.2200120.com^
 ||app2.220cordncode.com^
+||22117898.xyz^
 ||221vw.com^
 ||2222.ro^
 ||2222039.com^
@@ -2289,6 +2304,7 @@
 ||44chan.me^
 ||www.44tele-infra.com^
 ||37.44x.io^
+||45.82.68.79^
 ||t.451.io^
 ||o-lx.45124580.xyz^
 ||452tapgn.de^
@@ -2707,6 +2723,7 @@
 ||56rt2692.de^
 ||track.56txs4.com^
 ||56yk.com^
+||57.128.71.215^
 ||www.57.com.cn^
 ||ihpost.5724353.xyz^
 ||5726303d87522d05.com^
@@ -2908,6 +2925,8 @@
 ||61739011039d41a.com^
 ||61t2ll6yy.com^
 ||61zdn1c9.skin^
+||62.76.25.27^
+||62.76.25.28^
 ||www.620035.com^
 ||hgfh.621307.top^
 ||51fdc70d17.622bcf2c86.com^
@@ -3470,6 +3489,7 @@
 ||allegrolokalnie.81271.cfd^
 ||m1.81312.com^
 ||allegrolokalnie.81726489.shop^
+||817dae10e1.com^
 ||8181zx.com^
 ||8184.cc^
 ||vdrigb.8190.jp^
@@ -3829,6 +3849,7 @@
 ||marketing.90degreebenefits.com^
 ||data-0420d605d9.90min.de^
 ||data-449cc4329e.90minuten.at^
+||91.204.226.224^
 ||91.207.192.31^
 ||bcs.91.com^
 ||e.91.com^
@@ -3899,6 +3920,7 @@
 ||327bdba97a.93d6b7d3b1.com^
 ||93mobiles.com^
 ||93ta.cn^
+||94.130.167.163^
 ||allegro.94123.shop^
 ||allegrolokalnie.94123.shop^
 ||allegrolokalnie.9435693.cfd^
@@ -11185,6 +11207,7 @@
 ||amazonway.co^
 ||amazy.ru^
 ||ambaab.com^
+||ambariafraid.shop^
 ||ambeartictor.com^
 ||amberalert.gov^
 ||banner.ambercoastcasino.com^
@@ -14675,7 +14698,7 @@
 ||aprtx.com^
 ||info.aps.org^
 ||apsalar.com^
-||beacon.apsehick.date^
+||apsehick.date^
 ||apserver.net^
 ||apsgwl.in^
 ||apsis.com^
@@ -21090,6 +21113,7 @@
 ||bdgadv.ru^
 ||bdhcpll.cn^
 ||bdhddyknhy.com^
+||bdhsahmg.com^
 ||tracking.bdi-services.de^
 ||trck.bdi-services.de^
 ||ussd.bdiegjsi.top^
@@ -22181,6 +22205,7 @@
 ||best-global-apps.com^
 ||best-gout-remedies.com^
 ||best-hacks.net^
+||counter.best-hit.tv^
 ||best-investment24.pro^
 ||www.best-iphone6s.com^
 ||best-ir4.com^
@@ -26643,7 +26668,6 @@
 ||bnbn.jp^
 ||bnbteachers.com^
 ||thirdparty.bnc.lt^
-||bncentertainment.com^
 ||smetrics.bnck-12.com^
 ||metrics.bncollege.com^
 ||smetrics.bncollege.com^
@@ -31092,6 +31116,7 @@
 ||cammak.xyz^
 ||camomantra.xyz^
 ||camomilegentlemennotable.com^
+||creative.camonade.com^
 ||camonster.com^
 ||camouque.net^
 ||refytq.camp-fire.jp^
@@ -36044,6 +36069,7 @@
 ||assets.ckjr001.com^
 ||kpstaticbj.wx.ckjr001.com^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
+||ckkebt.shop^
 ||cklithuw.xyz^
 ||ckmbig.xyz^
 ||ckofrnk.com^
@@ -43365,6 +43391,7 @@
 ||cynicochred.shop^
 ||cynlinh.com^
 ||video.cynogage.com^
+||cynoidfudging.shop^
 ||cynuguuautr2.pro^
 ||cypcb.net^
 ||cyperior-store.site^
@@ -50001,6 +50028,7 @@
 ||dsda21.fun^
 ||cikvwv.dsdamat.com^
 ||fam.dsdemo.jp^
+||dsdkpgjyvdv.com^
 ||dsdsa33.fun^
 ||dsdsg44.fun^
 ||dsethimdownthmo.com^
@@ -51946,6 +51974,7 @@
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
 ||synd.edgecdnc.com^
+||sapi.edgedb.com^
 ||edgeio.com^
 ||images.edgenuity.com^
 ||metrics.edgepark.com^
@@ -56648,6 +56677,7 @@
 ||eymaume.com^
 ||eymised.com^
 ||eynicit.com^
+||eyoqubfcpze.com^
 ||eyouv.cn^
 ||eypeole.com^
 ||eypqbjju.xyz^
@@ -61955,6 +61985,7 @@
 ||cmn.ftft155.vip^
 ||hgw.ftft155.vip^
 ||ftgygshutxlpey.com^
+||ftheusysianeduk.com^
 ||blfkmp.fti.de^
 ||url.fti.or.th^
 ||app.info.fticonsulting.com^
@@ -64366,6 +64397,7 @@
 ||gfstrck.com^
 ||gft2.de^
 ||gftet.com^
+||gfufutakba.com^
 ||gfunwoakvgwo.com^
 ||gfwfdsqz.xyz^
 ||gfwfdsqzb.xyz^
@@ -64447,6 +64479,7 @@
 ||usch.ghiawuky.top^
 ||ghibli.hu^
 ||smetrics.ghirardelli.com^
+||ghiuge55.fun^
 ||ghjhucekiywqrk.com^
 ||mail.ghmproperties.com^
 ||asgg.ghostbin.me^
@@ -80947,6 +80980,7 @@
 ||th.jbau.top^
 ||vk.jbau.top^
 ||jbbbet.com^
+||jbbyyryezqavb.top^
 ||jbcam.cz^
 ||jbcapsforum.tk^
 ||go.jbihairtrk.com^
@@ -89802,6 +89836,7 @@
 ||lazamaopew.live^
 ||lazar-offers.com^
 ||smetrics.lazarediamond.jp^
+||lazarsunthank.top^
 ||lazieneczka.pl^
 ||qejrwy.lazienkaplus.pl^
 ||lazmail.com.vn^
@@ -106841,12 +106876,14 @@
 ||navi30.ru^
 ||navi32.com^
 ||navi33.com^
+||navi33.ru^
 ||navi35.com^
 ||navi35.ru^
 ||navi36.ru^
 ||navi38.ru^
 ||navi39.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi50.com^
 ||navi53.com^
@@ -111148,6 +111185,7 @@
 ||ocxva.xyz^
 ||ocxxx.com^
 ||ocycling.com^
+||ocyoxysw.com^
 ||bvbqyq.odalys-vacances.com^
 ||ea.odalys-vacances.com^
 ||tr.infos.odalys-vacances.com^
@@ -111485,6 +111523,7 @@
 ||ogorodnic.com^
 ||ogouawc.cn^
 ||ogp.me^
+||ogqophjilar.com^
 ||ograuwih.com^
 ||ogrencilerbirligi.com^
 ||ogrismpensile.com^
@@ -113757,6 +113796,7 @@
 ||webhooks-affiliates.ornament.app^
 ||ornamentbyechose.com^
 ||ornamentik.com^
+||ornatecomputer.com^
 ||ornatomial.click^
 ||trcka8.orobianco-jp.com^
 ||a8cv.orochoku.shop^
@@ -118389,6 +118429,7 @@
 ||smetrics.pictet.com^
 ||telemetry.am.pictet.com^
 ||pictorialtraverse.com^
+||pictunoctette.com^
 ||picturecorrespond.com^
 ||picturedrockssailing.com^
 ||go.picturemarketing.com^
@@ -123653,6 +123694,7 @@
 ||profitabledisplaycontent.com^
 ||profitabledisplayformat.com^
 ||profitabledisplaynetwork.com^
+||profitableexactly.com^
 ||profitablefrauds.com^
 ||profitablegate.com^
 ||profitablegatecpm.com^
@@ -127284,6 +127326,7 @@
 ||puwpush.com^
 ||puxmju.top^
 ||puyyyifbmdh.com^
+||puzna.com^
 ||puzzio.xyz^
 ||hzyddt.puzzle.de^
 ||puzzlebowl.com^
@@ -128777,7 +128820,6 @@
 ||wvzddr.quirumed.com^
 ||quisma.com^
 ||to.quit.guru^
-||quitasueno.com^
 ||quitepoet.com^
 ||quitesousefulhe.info^
 ||quitjav11.fun^
@@ -134486,6 +134528,7 @@
 ||service.royaymail.services^
 ||www2.royceinvest.com^
 ||royermail.xyz^
+||sashimi.royli.dev^
 ||pixel.roymorgan.com^
 ||royrichie.com^
 ||rozaholshouser.cfd^
@@ -135281,6 +135324,7 @@
 ||rungoverjoyed.com^
 ||runicforgecrafter.com^
 ||cinest.runik.top^
+||runingamgladt.com^
 ||runmixed.com^
 ||runn.fun^
 ||sstats.runnersneed.com^
@@ -146136,7 +146180,6 @@
 ||stream.spongead.com^
 ||spongecleanser.com^
 ||spongemilitarydesigner.com^
-||sponsor-usreward.click^
 ||sponsor1.com^
 ||sponsorads.de^
 ||sponsoranimosity.com^
@@ -148402,6 +148445,8 @@
 ||hentent.stre4mplay.one^
 ||ientent.stre4mplay.one^
 ||kentent.stre4mplay.one^
+||analytics-op.streak.ninja^
+||track.streak.ninja^
 ||streakappealmeasured.com^
 ||streakattempt.com^
 ||metrics.streaks.jp^
@@ -154072,6 +154117,7 @@
 ||terraverdeclimatesolutions.com^
 ||panel.terrawinds.com^
 ||app.go.terremark.com^
+||terreproa.shop^
 ||terrex.pl^
 ||static.terrhq.ru^
 ||terribledeliberate.com^
@@ -154510,6 +154556,7 @@
 ||e.thanksearch.com^
 ||thanksgivingdelights.com^
 ||thanksgivingdelights.name^
+||thanksgivingtamepending.com^
 ||thanksthat.com^
 ||thankstossl.com^
 ||thankswrite.com^
@@ -163123,6 +163170,7 @@
 ||www.ufsdrive.com^
 ||grado.ufv.es^
 ||ufvjgf.xyz^
+||ufvxiyewsyi.com^
 ||ufzanvc.com^
 ||t.pac.uga.edu^
 ||track.ugamezone.com^
@@ -167992,6 +168040,7 @@
 ||tracking.vessi.se^
 ||vessoupy.com^
 ||vestabet365.com^
+||vestalsabuna.shop^
 ||info.vestapublicsafety.com^
 ||www.vestavs.shop^
 ||gmxcdm.vestel.com.tr^
@@ -174901,6 +174950,7 @@
 ||ttk.wodmell.top^
 ||ttok.wodmell.top^
 ||zuck.wodmell.top^
+||wodmxcvsis.com^
 ||woefifty.com^
 ||woejh.com^
 ||woespoke.com^
